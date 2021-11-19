@@ -18,6 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.turtle84375.tk
   # baseUrl: /your-repo-name
+  favicon: https://raw.githubusercontent.com/Turtle84375/turtle84375.tk/main/assets/favicon.ico
   logoUrl: https://raw.githubusercontent.com/Turtle84375/turtle84375.tk/main/assets/logo.png
   name: Turtle84375 Status
   introTitle: "**Website status page** for all Turtle84375 domains."
