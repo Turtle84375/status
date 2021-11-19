@@ -7,6 +7,7 @@ sites:
     url: https://turtle84375.tk
   - name: Turtle84375 Chat
     url: https://chat.turtle84375.tk
+    __dangerous__body_degraded: ""
   - name: Turtle84375 Community
     url: https://community.turtle84375.tk
   - name: Turtle84375 Status (this site)
