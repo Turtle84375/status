@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 422,
-    "timeWeek": 422,
-    "timeMonth": 422,
-    "timeYear": 422,
+    "time": 415,
+    "timeDay": 415,
+    "timeWeek": 415,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://chat.turtle84375.tk",
     "icon": "https://favicons.githubusercontent.com/chat.turtle84375.tk",
     "slug": "turtle84375-chat",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 836,
-    "timeDay": 836,
-    "timeWeek": 836,
-    "timeMonth": 836,
-    "timeYear": 836,
+    "status": "up",
+    "uptime": "92.52%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "92.52%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "92.52%",
+    "time": 766,
+    "timeDay": 766,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
     "dailyMinutesDown": {
-      "2021-11-19": 0
+      "2021-11-19": 68
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1616,
-    "timeDay": 1616,
-    "timeWeek": 1616,
-    "timeMonth": 1616,
-    "timeYear": 1616,
+    "time": 1641,
+    "timeDay": 1641,
+    "timeWeek": 1641,
+    "timeMonth": 1641,
+    "timeYear": 1641,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "time": 248,
+    "timeDay": 248,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {}
   }
 ]
