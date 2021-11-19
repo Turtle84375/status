@@ -8,6 +8,7 @@ sites:
   - name: Turtle84375 Chat
     url: https://chat.turtle84375.tk
     maxResponseTime: 4000
+    __dangerous__body_degraded: true
   - name: Turtle84375 Community
     url: https://community.turtle84375.tk
   - name: Turtle84375 Status (this site)
