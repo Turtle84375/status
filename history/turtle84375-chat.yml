@@ -1,7 +1,7 @@
 url: https://chat.turtle84375.tk
-status: down
-code: 200
-responseTime: 2859
-lastUpdated: 2022-03-05T02:13:55.144Z
+status: degraded
+code: 404
+responseTime: 8180
+lastUpdated: 2022-03-05T09:35:25.679Z
 startTime: Fri Nov 19 2021 08:38:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
