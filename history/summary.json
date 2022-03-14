@@ -29,7 +29,7 @@
     "url": "https://chat.turtle84375.tk",
     "icon": "https://favicons.githubusercontent.com/chat.turtle84375.tk",
     "slug": "turtle84375-chat",
-    "status": "degraded",
+    "status": "down",
     "uptime": "5.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -41,7 +41,7 @@
     "timeMonth": 3843,
     "timeYear": 3087,
     "dailyMinutesDown": {
-      "2022-03-14": 539,
+      "2022-03-14": 565,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
