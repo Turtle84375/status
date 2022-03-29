@@ -5,8 +5,8 @@ repo: status
 sites:
   - name: Turtle84375 (main domain)
     url: https://turtle84375.tk
-  - name: Turtle84375 Chat
-    url: https://chat.turtle84375.tk
+  - name: TurtleChat
+    url: https://turtlechat.herokuapp.com
   - name: Turtle84375 Community
     url: https://community.turtle84375.tk
   - name: Turtle84375 Status (this site)
