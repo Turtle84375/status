@@ -11,8 +11,6 @@ sites:
     url: https://community.turtle84375.tk
   - name: Turtle84375 Status (this site)
     url: https://status.turtle84375.tk
-  - name: Test
-    url: https://nonexistent.turtle84375.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
