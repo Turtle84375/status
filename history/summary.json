@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
-    "time": 592,
-    "timeDay": 213,
+    "time": 589,
+    "timeDay": 212,
     "timeWeek": 190,
-    "timeMonth": 301,
-    "timeYear": 592,
+    "timeMonth": 297,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2022-01-19": 161,
       "2022-01-18": 1157,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2845,
-    "timeDay": 2845,
-    "timeWeek": 2845,
-    "timeMonth": 2845,
-    "timeYear": 2845,
+    "time": 1909,
+    "timeDay": 168,
+    "timeWeek": 1909,
+    "timeMonth": 1909,
+    "timeYear": 1909,
     "dailyMinutesDown": {}
   },
   {
@@ -48,16 +48,16 @@
     "icon": "https://favicons.githubusercontent.com/community.turtle84375.tk",
     "slug": "turtle84375-community",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "98.51%",
-    "time": 2310,
-    "timeDay": 2946,
-    "timeWeek": 3478,
-    "timeMonth": 3627,
-    "timeYear": 2310,
+    "uptimeYear": "98.52%",
+    "time": 2341,
+    "timeDay": 5408,
+    "timeWeek": 3689,
+    "timeMonth": 3723,
+    "timeYear": 2341,
     "dailyMinutesDown": {
       "2022-03-11": 27,
       "2022-03-10": 27,
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
-    "time": 269,
-    "timeDay": 192,
-    "timeWeek": 160,
-    "timeMonth": 207,
-    "timeYear": 269,
+    "time": 268,
+    "timeDay": 211,
+    "timeWeek": 159,
+    "timeMonth": 206,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2022-01-19": 160,
       "2022-01-18": 1157,
@@ -118,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 0
+      "2022-03-31": 40,
+      "2022-03-30": 257
     }
   }
 ]
