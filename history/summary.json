@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
-    "time": 589,
-    "timeDay": 212,
-    "timeWeek": 190,
-    "timeMonth": 297,
-    "timeYear": 589,
+    "time": 586,
+    "timeDay": 198,
+    "timeWeek": 189,
+    "timeMonth": 294,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2022-01-19": 161,
       "2022-01-18": 1157,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1909,
-    "timeDay": 168,
-    "timeWeek": 1909,
-    "timeMonth": 1909,
-    "timeYear": 1909,
+    "time": 1441,
+    "timeDay": 124,
+    "timeWeek": 1441,
+    "timeMonth": 1441,
+    "timeYear": 1441,
     "dailyMinutesDown": {}
   },
   {
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.52%",
-    "time": 2341,
-    "timeDay": 5408,
-    "timeWeek": 3689,
-    "timeMonth": 3723,
-    "timeYear": 2341,
+    "time": 2359,
+    "timeDay": 5417,
+    "timeWeek": 3847,
+    "timeMonth": 3764,
+    "timeYear": 2359,
     "dailyMinutesDown": {
       "2022-03-11": 27,
       "2022-03-10": 27,
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
     "time": 268,
-    "timeDay": 211,
-    "timeWeek": 159,
-    "timeMonth": 206,
+    "timeDay": 188,
+    "timeWeek": 157,
+    "timeMonth": 205,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2022-01-19": 160,
@@ -99,27 +99,6 @@
       "2022-01-12": 1,
       "2022-01-11": 102,
       "2022-01-10": 375
-    }
-  },
-  {
-    "name": "Test",
-    "url": "https://nonexistent.turtle84375.tk",
-    "icon": "https://favicons.githubusercontent.com/nonexistent.turtle84375.tk",
-    "slug": "test",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-03-31": 40,
-      "2022-03-30": 257
     }
   }
 ]
