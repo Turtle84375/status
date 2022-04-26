@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/turtle84375.tk",
     "slug": "turtle84375-main-domain",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 537,
     "timeDay": 181,
     "timeWeek": 338,
@@ -29,9 +29,9 @@
     "url": "https://turtlechat.herokuapp.com",
     "icon": "https://favicons.githubusercontent.com/turtlechat.herokuapp.com",
     "slug": "turtle-chat-webapp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -40,7 +40,9 @@
     "timeWeek": 280,
     "timeMonth": 208,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-26": 0
+    }
   },
   {
     "name": "TurtleChat (subdomain redirect)",
