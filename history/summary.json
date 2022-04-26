@@ -29,19 +29,19 @@
     "url": "https://turtlechat.herokuapp.com",
     "icon": "https://favicons.githubusercontent.com/turtlechat.herokuapp.com",
     "slug": "turtle-chat-webapp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 271,
-    "timeWeek": 280,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 202,
+    "timeDay": 150,
+    "timeWeek": 249,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 38
     }
   },
   {
