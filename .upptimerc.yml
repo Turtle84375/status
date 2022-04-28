@@ -5,6 +5,8 @@ repo: status
 sites:
   - name: Turtle84375 (main domain)
     url: https://turtle84375.tk
+  - name: Turtle84375 (new main domain)
+    url: https://turtle84375.me
   - name: TurtleChat (webapp)
     url: https://turtlechat.herokuapp.com
   - name: TurtleChat (subdomain redirect)
