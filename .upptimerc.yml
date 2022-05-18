@@ -4,8 +4,6 @@ repo: status
 
 sites:
   - name: Turtle84375 (main domain)
-    url: https://turtle84375.tk
-  - name: Turtle84375 (new main domain)
     url: https://turtle84375.me
   - name: TurtleChat (webapp)
     url: https://turtlechat.herokuapp.com
@@ -14,12 +12,12 @@ sites:
   - name: Turtle84375 Community
     url: https://community.turtle84375.tk
   - name: Turtle84375 Status (this site)
-    url: https://status.turtle84375.tk
+    url: https://status.turtle84375.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.turtle84375.tk
+  cname: status.turtle84375.me
   # baseUrl: /your-repo-name
   favicon: https://raw.githubusercontent.com/Turtle84375/turtle84375.tk/main/assets/favicon.ico
   logoUrl: https://raw.githubusercontent.com/Turtle84375/turtle84375.tk/main/assets/logo.png
@@ -28,7 +26,7 @@ status-website:
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/Turtle84375/status).
   navbar:
     - title: Home
-      href: https://turtle84375.tk
+      href: https://turtle84375.me
     - title: Status
       href: /
     - title: GitHub
