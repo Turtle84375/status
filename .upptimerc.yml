@@ -9,8 +9,6 @@ sites:
     url: https://turtlechat.herokuapp.com
   - name: TurtleChat (subdomain redirect)
     url: https://chat.turtle84375.tk
-  - name: Turtle84375 Community
-    url: https://community.turtle84375.tk
   - name: Turtle84375 Status (this site)
     url: https://status.turtle84375.me
 
